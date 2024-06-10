@@ -24,3 +24,6 @@ Install the required Python packages using pip:
 
 ```bash
 pip install PyQt5 bip-utils requests python-dotenv
+
+git clone https://github.com/your_username/fyyx-wallet-finder.git
+
