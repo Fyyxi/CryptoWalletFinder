@@ -36,8 +36,6 @@ INSTALL:
 
 Click on the "Search Wallet" button to start searching for wallets.
 
-Contributing
-Contributions are welcome! If you find any issues or want to add new features, feel free to open an issue or submit a pull request.
 Once the search is complete, check the wallets_with_balance_secrets.txt file in the project directory for mnemonic seeds of wallets with balances.
 
 
