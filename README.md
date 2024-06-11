@@ -28,38 +28,23 @@ Fyyx Wallet Finder is a tool that searches for Bitcoin and Ethereum wallets with
     cd fyyx-wallet-finder
     ```
 
-2. **Create a Virtual Environment (Optional but recommended):**
-
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3. **Install the Required Packages:**
+2. **Install the Required Packages:**
 
     ```bash
     pip install -r requirements.txt
     ```
 
-4. **Set Up Environment Variables:**
-
-    Create a `.env` file in the root directory of the project and add your Etherscan API key:
-
-    ```env
-    ETHERSCAN_API_KEY=your_etherscan_api_key
-    ```
-
-5. **Run the Application:**
+3. **Run the Application:**
 
     ```bash
-    python main.py
+    python Finder.py
     ```
 
 ## Usage
 
 1. **Start the Application:**
 
-    After running `python main.py`, the Fyyx Wallet Finder GUI will appear.
+    After running `python Finder.py`, the Fyyx Wallet Finder GUI will appear.
 
 2. **Begin Wallet Search:**
 
@@ -88,13 +73,5 @@ Fyyx Wallet Finder is a tool that searches for Bitcoin and Ethereum wallets with
 - `python-dotenv`
 
 These dependencies are listed in the `requirements.txt` file and can be installed using `pip`.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-For any issues or feature requests, please open an issue on [GitHub](https://github.com/yourusername/fyyx-wallet-finder/issues).
 
 Feel free to contribute by submitting pull requests to improve the tool. Happy wallet hunting!
