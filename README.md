@@ -51,6 +51,7 @@ Fyyx Wallet Finder is a tool that searches for Bitcoin and Ethereum wallets with
     - Click on the "Search Wallet" button to start searching for wallets.
     - The tool will generate mnemonic phrases, derive wallet addresses, and check their balances.
     - Results will be displayed in the GUI and logged to the log file.
+    - You need API key for the tool from: etherscan.io
 
 3. **Stop the Search:**
 
