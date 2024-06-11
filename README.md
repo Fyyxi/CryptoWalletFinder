@@ -28,7 +28,7 @@ pip install PyQt5 bip-utils requests python-dotenv
 
 INSTALL:
 
-- git clone https://github.com/your_username/fyyx-wallet-finder.git
+- git clone https://github.com/Fyyxi/CryptoWalletFinder)
 - cd fyyx-wallet-finder
 - python Finder.py
 
