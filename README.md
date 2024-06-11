@@ -24,8 +24,8 @@ Fyyx Wallet Finder is a tool that searches for Bitcoin and Ethereum wallets with
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/fyyx-wallet-finder.git
-    cd fyyx-wallet-finder
+    git clone https://github.com/Fyyxi/CryptoWalletFinder
+    cd CryptoWalletFinder
     ```
 
 2. **Install the Required Packages:**
